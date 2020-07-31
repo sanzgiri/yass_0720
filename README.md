@@ -5,5 +5,7 @@ Copy markdown link to clipboard
 Presentation: Covid 19, Kevin Systrom &amp; Hosting Auto-Updating Dashboards on Github
 
 # Instructions
-* Click "Binder" icon above.
-* When the jupyter notebook opens up, select the first cell, and click "Option-R" on Mac to launch slideshow
+* Click "Launch Binder" icon above.
+* Wait for some magic to happen.
+* When the Jupyter notebook opens up, select the first cell, and click "Option-R" on Mac to launch slideshow.
+* Enjoy :-)
